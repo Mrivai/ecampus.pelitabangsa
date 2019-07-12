@@ -1,0 +1,9 @@
+C:\Users\mrivai89\source\repos\Ecampus\Ecampus\bin\Debug\Ecampus.exe
+C:\Users\mrivai89\source\repos\Ecampus\Ecampus\bin\Debug\Ecampus.pdb
+C:\Users\mrivai89\source\repos\Ecampus\Ecampus\obj\Debug\Ecampus.csprojAssemblyReference.cache
+C:\Users\mrivai89\source\repos\Ecampus\Ecampus\obj\Debug\Ecampus.Form1.resources
+C:\Users\mrivai89\source\repos\Ecampus\Ecampus\obj\Debug\Ecampus.Properties.Resources.resources
+C:\Users\mrivai89\source\repos\Ecampus\Ecampus\obj\Debug\Ecampus.csproj.GenerateResource.cache
+C:\Users\mrivai89\source\repos\Ecampus\Ecampus\obj\Debug\Ecampus.csproj.CoreCompileInputs.cache
+C:\Users\mrivai89\source\repos\Ecampus\Ecampus\obj\Debug\Ecampus.exe
+C:\Users\mrivai89\source\repos\Ecampus\Ecampus\obj\Debug\Ecampus.pdb
